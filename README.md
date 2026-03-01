@@ -1,10 +1,11 @@
 # PowerBI Project: Sales Performance Dashboard for Blinkit – A Quick-Commerce company
 ## Project Overview
 
+![Blinkit_Logo](https://github.com/SagarPanchal-com/Blinkit_Dashboard/blob/main/Blinkit.jpg)
+
 **Project Title**: Blinkit Sales & Outlet Performance Dashboard  
 **Tool Used**: Power BI Desktop
 
-![Blinkit_Logo](https://github.com/SagarPanchal-com/Blinkit_Dashboard/blob/main/Blinkit.jpg)
 
 An interactive Power BI dashboard built to analyze Blinkit’s sales performance, outlet distribution, product trends, and customer rating behavior.
 This project provides actionable insights into outlet types, item categories, fat content distribution, and regional sales performance.
@@ -70,7 +71,7 @@ Management requires a centralized analytical view to:
 
 Raw data alone does not provide strategic clarity.
 
-***Goal of the Dashboard***:  
+**Goal of the Dashboard**:  
 To build an interactive retail analytics solution that:
 - Enables filtering by outlet location type, size, and item category
 - Highlights revenue contribution by outlet tier
@@ -80,27 +81,27 @@ To build an interactive retail analytics solution that:
 
 **Walkthrough of Key Visuals**:
 
-***KPI Cards (Top Section)***  
+***KPI Cards (Top Section)***:  
 Quick snapshot of overall business performance:
 - Total Sales
 - Average Sales
 - Number of Items
 - Average Rating
 
-***Outlet Establishment Trend (Area Chart)***  
+***Outlet Establishment Trend (Area Chart)***:  
 Displays sales performance by outlet establishment year.
 Shows growth patterns and peak establishment performance.
 
 Insight: Significant spike around 2018 indicating high-performing expansion phase.
 
-***Fat Content Analysis (Donut Chart)***  
+***Fat Content Analysis (Donut Chart)***:  
 Compares sales between:
 - Low Fat Products
 - Regular Products
 
 Helps understand consumer health preference trends.
 
-***Item Type Sales (Bar Chart)***  
+***Item Type Sales (Bar Chart)***:  
 Ranks product categories such as:
 - Fruits & Vegetables
 - Snack Foods
@@ -111,7 +112,7 @@ Ranks product categories such as:
 
 Insight: Fruits & Snack Foods contribute the highest revenue.
 
-***Outlet Size Distribution (Donut Chart)***  
+***Outlet Size Distribution (Donut Chart)***:  
 Compares sales across:
 - Small
 - Medium
@@ -119,7 +120,7 @@ Compares sales across:
 
 Helps in understanding infrastructure scalability impact.
 
-***Outlet Location Tier Analysis (Bar Chart)***  
+***Outlet Location Tier Analysis (Bar Chart)***:  
 Compares:
 - Tier 1
 - Tier 2
@@ -127,7 +128,7 @@ Compares:
 
 Insight: Tier 3 outlets generate the highest sales volume.
 
-***Outlet Type Performance (Matrix Table)***  
+***Outlet Type Performance (Matrix Table)***:  
 Detailed comparison of:
 - Supermarket Type 1
 - Grocery Stores
