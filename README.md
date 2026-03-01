@@ -30,11 +30,11 @@ This dashboard is intended for:
 
 ## Tech Stack
 The dashboard was developed using:
-- Power BI Desktop – Data visualization & dashboard development
-- Power Query – Data cleaning and transformation
-- DAX (Data Analysis Expressions) – KPI measures and calculated fields
-- Data Modeling – Relationship management for optimized filtering
-- File Format – .pbit
+- **Power BI Desktop** – Data visualization & dashboard development
+- **Power Query** – Data cleaning and transformation
+- **DAX (Data Analysis Expressions)** – KPI measures and calculated fields
+- **Data Modeling** – Relationship management for optimized filtering
+- **File Format** – .pbit
 
 ## Dataset Information
 The dataset includes detailed retail transaction and outlet information such as:
