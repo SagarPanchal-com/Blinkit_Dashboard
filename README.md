@@ -80,7 +80,8 @@ Raw data alone does not provide strategic clarity.
   - Tracks historical establishment performance
 
 **🔸 Walkthrough of Key Visuals**:    
-***🔹 KPI Cards (Top Section)***:  
+  
+  ***🔹 KPI Cards (Top Section)***:  
   Quick snapshot of overall business performance:  
   - Total Sales
   - Average Sales
