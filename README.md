@@ -28,7 +28,7 @@ This dashboard is intended for:
 - Sales & marketing teams
 - Data analytics portfolio evaluation
 
-## Tech Stack
+## Tech Stack  
 The dashboard was developed using:
 - **Power BI Desktop** – Data visualization & dashboard development
 - **Power Query** – Data cleaning and transformation
@@ -36,7 +36,7 @@ The dashboard was developed using:
 - **Data Modeling** – Relationship management for optimized filtering
 - **File Format** – .pbit
 
-## Dataset Information
+## Dataset Information  
 The dataset includes detailed retail transaction and outlet information such as:
 - Item Type
 - Fat Content (Low Fat / Regular)
@@ -50,7 +50,7 @@ The dataset includes detailed retail transaction and outlet information such as:
 - Average Rating
 - Item Visibility
 
-## Key KPIs
+## Key KPIs  
 The dashboard highlights the following performance metrics:
 - $1.20M Total Sales
 - 8,523 Total Items
@@ -59,7 +59,7 @@ The dashboard highlights the following performance metrics:
 
 ## Features & Highlights
 
-**Business Problem**:
+**Business Problem**:  
 Blinkit operates across multiple outlet types and regions.
 Management requires a centralized analytical view to:
 - Monitor outlet-level performance
@@ -80,27 +80,27 @@ To build an interactive retail analytics solution that:
 
 **Walkthrough of Key Visuals**:
 
-***KPI Cards (Top Section)***
+***KPI Cards (Top Section)***  
 Quick snapshot of overall business performance:
 - Total Sales
 - Average Sales
 - Number of Items
 - Average Rating
 
-***Outlet Establishment Trend (Area Chart)***
+***Outlet Establishment Trend (Area Chart)***  
 Displays sales performance by outlet establishment year.
 Shows growth patterns and peak establishment performance.
 
 Insight: Significant spike around 2018 indicating high-performing expansion phase.
 
-***Fat Content Analysis (Donut Chart)***
+***Fat Content Analysis (Donut Chart)***  
 Compares sales between:
 - Low Fat Products
 - Regular Products
 
 Helps understand consumer health preference trends.
 
-***Item Type Sales (Bar Chart)***
+***Item Type Sales (Bar Chart)***  
 Ranks product categories such as:
 - Fruits & Vegetables
 - Snack Foods
@@ -111,7 +111,7 @@ Ranks product categories such as:
 
 Insight: Fruits & Snack Foods contribute the highest revenue.
 
-***Outlet Size Distribution (Donut Chart)***
+***Outlet Size Distribution (Donut Chart)***  
 Compares sales across:
 - Small
 - Medium
@@ -119,7 +119,7 @@ Compares sales across:
 
 Helps in understanding infrastructure scalability impact.
 
-***Outlet Location Tier Analysis (Bar Chart)***
+***Outlet Location Tier Analysis (Bar Chart)***  
 Compares:
 - Tier 1
 - Tier 2
@@ -127,7 +127,7 @@ Compares:
 
 Insight: Tier 3 outlets generate the highest sales volume.
 
-***Outlet Type Performance (Matrix Table)***
+***Outlet Type Performance (Matrix Table)***  
 Detailed comparison of:
 - Supermarket Type 1
 - Grocery Stores
@@ -145,22 +145,22 @@ Insight: Supermarket Type 1 contributes the largest share of total revenue.
 
 ## Business Insights & Impact
 
-**Revenue Optimization**:
+**Revenue Optimization**:  
 Tier 3 outlets and Supermarket Type 1 drive maximum revenue — expansion strategy can prioritize similar regions.
 
-**Product Strategy**:
+**Product Strategy**:  
 High-performing categories like Fruits and Snacks can be prioritized in promotions.
 
-**Customer Behavior**:
+**Customer Behavior**:  
 Balanced fat content sales indicate mixed health preference — opportunity for targeted campaigns.
 
-**Infrastructure Planning**:
+**Infrastructure Planning**:  
 Medium & High outlets contribute significant sales — store size planning affects revenue.
 
-**Performance Benchmarking**:
+**Performance Benchmarking**:  
 Outlet type comparison enables benchmarking and operational optimization.
 
-## Interactive Filters
+## Interactive Filters  
 Users can filter by:
 - Outlet Location Type
 - Outlet Size
