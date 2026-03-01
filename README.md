@@ -95,50 +95,50 @@ Raw data alone does not provide strategic clarity.
 
   ***🔹 Fat Content Analysis (Donut Chart)***:  
     Compares sales between:
-    - Low Fat Products
-    - Regular Products
+  - Low Fat Products
+  - Regular Products
   
   Helps understand consumer health preference trends.
 
   ***🔹 Item Type Sales (Bar Chart)***:  
     Ranks product categories such as:
-    - Fruits & Vegetables
-    - Snack Foods
-    - Household
-    - Dairy
-    - Frozen Foods
-    - Canned Products
+  - Fruits & Vegetables
+  - Snack Foods
+  - Household
+  - Dairy
+  - Frozen Foods
+  - Canned Products
   
   Insight: Fruits & Snack Foods contribute the highest revenue.
 
   ***🔹 Outlet Size Distribution (Donut Chart)***:  
     Compares sales across:
-    - Small
-    - Medium
-    - High outlets
+  - Small
+  - Medium
+  - High outlets
   
   Helps in understanding infrastructure scalability impact.
 
   ***🔹 Outlet Location Tier Analysis (Bar Chart)***:  
     Compares:
-    - Tier 1
-    - Tier 2
-    - Tier 3 cities
+  - Tier 1
+  - Tier 2
+  - Tier 3 cities
   
   Insight: Tier 3 outlets generate the highest sales volume.
 
   ***🔹 Outlet Type Performance (Matrix Table)***:  
     Detailed comparison of:
-    - Supermarket Type 1
-    - Grocery Stores
-    - Supermarket Type 2
-    - Supermarket Type 3
+  - Supermarket Type 1
+  - Grocery Stores
+  - Supermarket Type 2
+  - Supermarket Type 3
     Metrics included:
-    - Total Sales
-    - Average Sales
-    - Number of Items
-    - Average Rating
-    - Item Visibility
+  - Total Sales
+  - Average Sales
+  - Number of Items
+  - Average Rating
+  - Item Visibility
   
   Insight: Supermarket Type 1 contributes the largest share of total revenue.
 
