@@ -79,8 +79,8 @@ Raw data alone does not provide strategic clarity.
   - Evaluates infrastructure impact on sales
   - Tracks historical establishment performance
 
-**🔸 Walkthrough of Key Visuals**:  
-  ***🔹 KPI Cards (Top Section)***:  
+**🔸 Walkthrough of Key Visuals**:    
+***🔹 KPI Cards (Top Section)***:  
   Quick snapshot of overall business performance:  
   - Total Sales
   - Average Sales
