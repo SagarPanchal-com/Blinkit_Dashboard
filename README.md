@@ -60,7 +60,7 @@ The dashboard highlights the following performance metrics:
 
 ## Features & Highlights
 
-**Business Problem**:  
+- **Business Problem**:
 Blinkit operates across multiple outlet types and regions.
 Management requires a centralized analytical view to:
 - Monitor outlet-level performance
