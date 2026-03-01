@@ -30,119 +30,117 @@ This dashboard is intended for:
 - Data analytics portfolio evaluation
 
 ## Tech Stack  
-The dashboard was developed using:
-- **Power BI Desktop** – Data visualization & dashboard development
-- **Power Query** – Data cleaning and transformation
-- **DAX (Data Analysis Expressions)** – KPI measures and calculated fields
-- **Data Modeling** – Relationship management for optimized filtering
-- **File Format** – .pbit
+  The dashboard was developed using:
+  - **Power BI Desktop** – Data visualization & dashboard development
+  - **Power Query** – Data cleaning and transformation
+  - **DAX (Data Analysis Expressions)** – KPI measures and calculated fields
+  - **Data Modeling** – Relationship management for optimized filtering
+  - **File Format** – .pbit
 
 ## Dataset Information  
-The dataset includes detailed retail transaction and outlet information such as:
-- Item Type
-- Fat Content (Low Fat / Regular)
-- Outlet Tier (Tier 1, 2, 3)
-- Outlet Size (Small, Medium, High)
-- Outlet Location Type
-- Outlet Establishment Year
-- Total Sales
-- Average Sales
-- Number of Items
-- Average Rating
-- Item Visibility
+  The dataset includes detailed retail transaction and outlet information such as:
+  - Item Type
+  - Fat Content (Low Fat / Regular)
+  - Outlet Tier (Tier 1, 2, 3)
+  - Outlet Size (Small, Medium, High)
+  - Outlet Location Type
+  - Outlet Establishment Year
+  - Total Sales
+  - Average Sales
+  - Number of Items
+  - Average Rating
+  - Item Visibility
 
 ## Key KPIs  
-The dashboard highlights the following performance metrics:
-- $1.20M Total Sales
-- 8,523 Total Items
-- 3.9 Average Rating
-- $141 Average Sales per Item
+  The dashboard highlights the following performance metrics:
+  - $1.20M Total Sales
+  - 8,523 Total Items
+  - 3.9 Average Rating
+  - $141 Average Sales per Item
 
 ## Features & Highlights
 
 **🔸 Business Problem**:
-Blinkit operates across multiple outlet types and regions.
-Management requires a centralized analytical view to:
-- Monitor outlet-level performance
-- Identify high-revenue product categories
-- Optimize product mix
-- Improve regional strategy
-- Understand customer preference trends
+  Blinkit operates across multiple outlet types and regions.
+  Management requires a centralized analytical view to:
+  - Monitor outlet-level performance
+  - Identify high-revenue product categories
+  - Optimize product mix
+  - mprove regional strategy
+  - Understand customer preference trends
 
 Raw data alone does not provide strategic clarity.
 
 **🔸 Goal of the Dashboard**:  
-To build an interactive retail analytics solution that:
-- Enables filtering by outlet location type, size, and item category
-- Highlights revenue contribution by outlet tier
-- Analyzes product category performance
-- Evaluates infrastructure impact on sales
-- Tracks historical establishment performance
+  To build an interactive retail analytics solution that:
+  - Enables filtering by outlet location type, size, and item category
+  - Highlights revenue contribution by outlet tier
+  - Analyzes product category performance
+  - Evaluates infrastructure impact on sales
+  - Tracks historical establishment performance
 
 **🔸 Walkthrough of Key Visuals**:
+  ***🔹 KPI Cards (Top Section)***:  
+  Quick snapshot of overall business performance:  
+  - Total Sales
+  - Average Sales
+  - Number of Items
+  - Average Rating
 
-***🔹 KPI Cards (Top Section)***:  
-Quick snapshot of overall business performance:
-- Total Sales
-- Average Sales
-- Number of Items
-- Average Rating
+  ***🔹 Outlet Establishment Trend (Area Chart)***:  
+  - Displays sales performance by outlet establishment year.
+  - Shows growth patterns and peak establishment performance.
 
-***🔹 Outlet Establishment Trend (Area Chart)***:  
-Displays sales performance by outlet establishment year.
-Shows growth patterns and peak establishment performance.
+  Insight: Significant spike around 2018 indicating high-performing expansion phase.
 
-Insight: Significant spike around 2018 indicating high-performing expansion phase.
+  ***🔹 Fat Content Analysis (Donut Chart)***:  
+    Compares sales between:
+    - Low Fat Products
+    - Regular Products
+  
+  Helps understand consumer health preference trends.
 
-***🔹 Fat Content Analysis (Donut Chart)***:  
-Compares sales between:
-- Low Fat Products
-- Regular Products
+  ***🔹 Item Type Sales (Bar Chart)***:  
+    Ranks product categories such as:
+    - Fruits & Vegetables
+    - Snack Foods
+    - Household
+    - Dairy
+    - Frozen Foods
+    - Canned Products
+  
+  Insight: Fruits & Snack Foods contribute the highest revenue.
 
-Helps understand consumer health preference trends.
+  ***🔹 Outlet Size Distribution (Donut Chart)***:  
+    Compares sales across:
+    - Small
+    - Medium
+    - High outlets
+  
+  Helps in understanding infrastructure scalability impact.
 
-***🔹 Item Type Sales (Bar Chart)***:  
-Ranks product categories such as:
-- Fruits & Vegetables
-- Snack Foods
-- Household
-- Dairy
-- Frozen Foods
-- Canned Products
+  ***🔹 Outlet Location Tier Analysis (Bar Chart)***:  
+    Compares:
+    - Tier 1
+    - Tier 2
+    - Tier 3 cities
+  
+  Insight: Tier 3 outlets generate the highest sales volume.
 
-Insight: Fruits & Snack Foods contribute the highest revenue.
-
-***🔹 Outlet Size Distribution (Donut Chart)***:  
-Compares sales across:
-- Small
-- Medium
-- High outlets
-
-Helps in understanding infrastructure scalability impact.
-
-***🔹 Outlet Location Tier Analysis (Bar Chart)***:  
-Compares:
-- Tier 1
-- Tier 2
-- Tier 3 cities
-
-Insight: Tier 3 outlets generate the highest sales volume.
-
-***🔹 Outlet Type Performance (Matrix Table)***:  
-Detailed comparison of:
-- Supermarket Type 1
-- Grocery Stores
-- Supermarket Type 2
-- Supermarket Type 3
-
-Metrics included:
-- Total Sales
-- Average Sales
-- Number of Items
-- Average Rating
-- Item Visibility
-
-Insight: Supermarket Type 1 contributes the largest share of total revenue.
+  ***🔹 Outlet Type Performance (Matrix Table)***:  
+    Detailed comparison of:
+    - Supermarket Type 1
+    - Grocery Stores
+    - Supermarket Type 2
+    - Supermarket Type 3
+    Metrics included:
+    - Total Sales
+    - Average Sales
+    - Number of Items
+    - Average Rating
+    - Item Visibility
+  
+  Insight: Supermarket Type 1 contributes the largest share of total revenue.
 
 ## Business Insights & Impact
 
