@@ -70,7 +70,7 @@ Management requires a centralized analytical view to:
 
 Raw data alone does not provide strategic clarity.
 
-**Goal of the Dashboard**:
+***Goal of the Dashboard***:
 To build an interactive retail analytics solution that:
 - Enables filtering by outlet location type, size, and item category
 - Highlights revenue contribution by outlet tier
