@@ -16,7 +16,7 @@ This project provides actionable insights into outlet types, item categories, fa
 **Business Problems**: Solving 20 real-world business cases using SQL queries.
 
 ## Database Setup
-![ERD](https://github.com/SagarPanchal-com/Blinkit_Dashboard/blob/main/Blinkit.png)
+![ERD](https://github.com/SagarPanchal-com/Blinkit_Dashboard/blob/main/Blinkit_Dashboard.png)
 
 **1. Database Creation**:
 Created a database named `Zomato_db`.
