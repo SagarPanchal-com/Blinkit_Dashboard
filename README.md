@@ -14,59 +14,59 @@ This project provides actionable insights into outlet types, item categories, fa
 The Blinkit Sales Dashboard is designed to analyze retail performance across multiple outlet tiers, sizes, and item categories.
 
 The dashboard answers key business questions such as:
-	•	Which outlet type generates the highest revenue?
-	•	How do sales vary by outlet tier and size?
-	•	Which product categories drive the most revenue?
-	•	What is the relationship between item visibility and sales?
-	•	How does fat content impact total sales?
-	•	How has outlet establishment performance changed over time?
+- •	Which outlet type generates the highest revenue?
+- •	How do sales vary by outlet tier and size?
+- •	Which product categories drive the most revenue?
+- •	What is the relationship between item visibility and sales?
+- •	How does fat content impact total sales?
+- •	How has outlet establishment performance changed over time?
 
 This dashboard is intended for:
-	•	Retail business analysts
-	•	FMCG strategy teams
-	•	Operations managers
-	•	Sales & marketing teams
-	•	Data analytics portfolio evaluation
+- •	Retail business analysts
+- •	FMCG strategy teams
+- •	Operations managers
+- •	Sales & marketing teams
+- •	Data analytics portfolio evaluation
 
 ## Tech Stack
 The dashboard was developed using:
-	•	Power BI Desktop – Data visualization & dashboard development
-	•	Power Query – Data cleaning and transformation
-	•	DAX (Data Analysis Expressions) – KPI measures and calculated fields
-	•	Data Modeling – Relationship management for optimized filtering
-	•	File Format – .pbit
+- •	Power BI Desktop – Data visualization & dashboard development
+- •	Power Query – Data cleaning and transformation
+- •	DAX (Data Analysis Expressions) – KPI measures and calculated fields
+- •	Data Modeling – Relationship management for optimized filtering
+- •	File Format – .pbit
 
 ## Dataset Information
 The dataset includes detailed retail transaction and outlet information such as:
-	•	Item Type
-	•	Fat Content (Low Fat / Regular)
-	•	Outlet Tier (Tier 1, 2, 3)
-	•	Outlet Size (Small, Medium, High)
-	•	Outlet Location Type
-	•	Outlet Establishment Year
-	•	Total Sales
-	•	Average Sales
-	•	Number of Items
-	•	Average Rating
-	•	Item Visibility
+- •	Item Type
+- •	Fat Content (Low Fat / Regular)
+- •	Outlet Tier (Tier 1, 2, 3)
+- •	Outlet Size (Small, Medium, High)
+- •	Outlet Location Type
+- •	Outlet Establishment Year
+- •	Total Sales
+- •	Average Sales
+- •	Number of Items
+- •	Average Rating
+- •	Item Visibility
 
 ## Key KPIs
 The dashboard highlights the following performance metrics:
-	•	$1.20M Total Sales
-	•	8,523 Total Items
-	•	3.9 Average Rating
-	•	$141 Average Sales per Item
+- •	$1.20M Total Sales
+- •	8,523 Total Items
+- •	3.9 Average Rating
+- •	$141 Average Sales per Item
 
 ## Features & Highlights
 
 **Business Problem**:
 Blinkit operates across multiple outlet types and regions.
 Management requires a centralized analytical view to:
-	•	Monitor outlet-level performance
-	•	Identify high-revenue product categories
-	•	Optimize product mix
-	•	Improve regional strategy
-	•	Understand customer preference trends
+- •	Monitor outlet-level performance
+- •	Identify high-revenue product categories
+- •	Optimize product mix
+- •	Improve regional strategy
+- •	Understand customer preference trends
 
 Raw data alone does not provide strategic clarity.
 
