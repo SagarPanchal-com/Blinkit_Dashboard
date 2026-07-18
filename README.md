@@ -123,7 +123,6 @@ All transactional parameters, database records, corporate identifiers, and custo
 
 ---
 
-## Developed By
-**SAGAR PANCHAL**  
-*B.Tech Student, Production & Industrial Engineering | National Institute of Technology, Kurukshetra*  
-*Specialization: Supply Chain Optimization, Operations Research & Advanced Data Analytics*
+## Developed By - **SAGAR PANCHAL**  
+
+
